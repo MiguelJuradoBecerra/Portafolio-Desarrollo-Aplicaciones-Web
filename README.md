@@ -21,6 +21,7 @@
 </div>
 
 ---
+link del github: https://github.com/MiguelJuradoBecerra/Portafolio-Desarrollo-Aplicaciones-Web
 
 # 👨‍🎓 Información General
 
